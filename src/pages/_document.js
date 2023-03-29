@@ -4,7 +4,9 @@ import { Container } from "react-bootstrap";
 export default function Document() {
   return (
     <Html lang="en">
-      <Head />
+      <Head>
+        
+      </Head>
       <body>
         <Container>
           <Main />

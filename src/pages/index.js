@@ -41,6 +41,9 @@ export default function Home() {
         <Link href="/articles">
           <Button>Go to Articles</Button>
         </Link>
+        <Link href="/state">
+          <Button>Go to State</Button>
+        </Link>
       </main>
     </>
   );
