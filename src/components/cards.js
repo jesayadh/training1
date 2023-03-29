@@ -1,6 +1,6 @@
 import { CardGroup } from "react-bootstrap";
 import ArticleCard from "./card";
-import {data} from "@/data/data";
+import data from "@/data/data";
 
 export default function Cards() {
   return (
